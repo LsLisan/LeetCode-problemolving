@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0168-excel-sheet-column-title/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0168-excel-sheet-column-title/) | Easy |
 <!---LeetCode Topics End-->
