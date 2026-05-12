@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0012-integer-to-roman/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0202-happy-number/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0012-integer-to-roman/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Bit Manipulation
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0012-integer-to-roman/) | Medium |
 | [0202-happy-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
