@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
