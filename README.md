@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0016-3sum-closest/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0016-3sum-closest/) | Medium |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0016-3sum-closest/) | Medium |
 | [0141-linked-list-cycle](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0202-happy-number/) | Easy |
 ## Greedy
