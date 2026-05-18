@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0043-multiply-strings/) | Medium |
+| [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0149-max-points-on-a-line/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
