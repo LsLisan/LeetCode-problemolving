@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
+| [0204-count-primes](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0204-count-primes/) | Medium |
 | [1306-jump-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1345-jump-game-iv/) | Hard |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
 ## String
@@ -119,5 +121,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
