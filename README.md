@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0016-3sum-closest/) | Medium |
+| [0046-permutations](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0055-jump-game/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -142,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0055-jump-game/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
