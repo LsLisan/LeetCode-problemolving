@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
+| [0367-valid-perfect-square](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0367-valid-perfect-square/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0367-valid-perfect-square](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0367-valid-perfect-square/) | Easy |
 | [2540-minimum-common-value](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2540-minimum-common-value/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
