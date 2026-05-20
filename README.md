@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2540-minimum-common-value](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0231-power-of-two/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2540-minimum-common-value](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
