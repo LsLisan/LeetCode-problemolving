@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0400-nth-digit/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
