@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0043-multiply-strings/) | Medium |
 | [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0412-fizz-buzz/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0400-nth-digit/) | Medium |
+| [0412-fizz-buzz](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0412-fizz-buzz/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0043-multiply-strings/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0412-fizz-buzz/) | Easy |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
