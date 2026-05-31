@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0012-integer-to-roman/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0043-multiply-strings](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0043-multiply-strings/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0012-integer-to-roman/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0046-permutations](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0046-permutations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
