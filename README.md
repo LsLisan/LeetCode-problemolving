@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0055-jump-game/) | Medium |
+| [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0043-multiply-strings](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0043-multiply-strings/) | Medium |
+| [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0412-fizz-buzz/) | Easy |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0055-jump-game/) | Medium |
+| [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
 ## Backtracking
@@ -188,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Sliding Window
@@ -202,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3161-block-placement-queries/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
