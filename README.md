@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0263-ugly-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0400-nth-digit/) | Medium |
 | [0412-fizz-buzz](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0412-fizz-buzz/) | Easy |
@@ -219,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
