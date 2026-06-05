@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0587-erect-the-fence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0587-erect-the-fence/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
