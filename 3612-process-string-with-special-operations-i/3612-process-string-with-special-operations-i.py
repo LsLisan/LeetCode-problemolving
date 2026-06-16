@@ -9,7 +9,7 @@ class Solution:
                 if res:
                     res.pop()
             elif ch == '#':
-                res.extend(res)      # duplicate the current result
+                res.extend(res)
             elif ch == '%':
                 res.reverse()
 
