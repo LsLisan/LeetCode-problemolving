@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0415-add-strings/) | Easy |
 | [0587-erect-the-fence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0587-erect-the-fence/) | Hard |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
