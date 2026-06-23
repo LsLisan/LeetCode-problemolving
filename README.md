@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
