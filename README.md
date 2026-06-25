@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,11 +192,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,4 +307,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
