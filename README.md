@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3161-block-placement-queries/) | Hard |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0400-nth-digit/) | Medium |
 | [2540-minimum-common-value](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3161-block-placement-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1345-jump-game-iv/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -317,4 +321,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
