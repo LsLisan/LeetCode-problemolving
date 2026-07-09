@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1929-concatenation-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0415-add-strings/) | Easy |
+| [1929-concatenation-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
