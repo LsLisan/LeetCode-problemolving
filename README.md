@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0587-erect-the-fence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0587-erect-the-fence/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1345-jump-game-iv/) | Hard |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0016-3sum-closest/) | Medium |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0242-valid-anagram/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0242-valid-anagram/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
