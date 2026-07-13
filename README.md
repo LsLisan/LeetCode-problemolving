@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0204-count-primes/) | Medium |
+| [1291-sequential-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1291-sequential-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
