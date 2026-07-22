@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0263-ugly-number/) | Easy |
+| [0292-nim-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0400-nth-digit/) | Medium |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0319-bulb-switcher/) | Medium |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
 ## Tree
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
 ## Counting Sort
 |  |
