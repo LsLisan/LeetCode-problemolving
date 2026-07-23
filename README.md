@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0231-power-of-two/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Recursion
