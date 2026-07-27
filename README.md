@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1345-jump-game-iv/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
