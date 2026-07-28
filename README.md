@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
