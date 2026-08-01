@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0204-count-primes/) | Medium |
+| [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0587-erect-the-fence/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1260-shift-2d-grid) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0400-nth-digit](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0400-nth-digit/) | Medium |
 | [0412-fizz-buzz](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0415-add-strings/) | Easy |
+| [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0587-erect-the-fence/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0231-power-of-two/) | Easy |
+| [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0055-jump-game/) | Medium |
 | [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
+| [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
@@ -388,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
 ## Counting Sort
 |  |
