@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0587-erect-the-fence/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1306-jump-game-iii/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0587-erect-the-fence/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1840-maximum-building-height/) | Hard |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0055-jump-game/) | Medium |
 | [0139-word-break](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0139-word-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0292-nim-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
 ## Counting Sort
 |  |
