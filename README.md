@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1345-jump-game-iv/) | Hard |
+| [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LsLisan/LeetCode-problemolving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1025-divisor-game/) | Easy |
+| [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -439,4 +443,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
