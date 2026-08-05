@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1306-jump-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1306-jump-game-iii/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3310-remove-methods-from-project) |
 ## Geometry
 |  |
 | ------- |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Shortest Path
