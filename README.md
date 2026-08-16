@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/LsLisan/LeetCode-problemolving/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
@@ -423,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -471,16 +476,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
