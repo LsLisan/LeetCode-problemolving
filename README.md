@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1840-maximum-building-height/) | Hard |
+| [1927-sum-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
+| [1927-sum-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1927-sum-game/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 | Problem Name | Difficulty |
