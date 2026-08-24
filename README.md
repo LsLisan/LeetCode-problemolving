@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1872-stone-game-viii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1872-stone-game-viii/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -437,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 ## Counting Sort
@@ -487,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -494,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LsLisan/LeetCode-problemolving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 ## Nim Game
 | Problem Name | Difficulty |
