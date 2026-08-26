@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1927-sum-game/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1871-jump-game-vii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/LsLisan/LeetCode-problemolving/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
