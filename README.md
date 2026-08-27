@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/LsLisan/LeetCode-problemolving/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2029-stone-game-ix](https://github.com/LsLisan/LeetCode-problemolving/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -355,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/LsLisan/LeetCode-problemolving/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/LsLisan/LeetCode-problemolving/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
